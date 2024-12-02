@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DMNSN.ProxmoxVE": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
